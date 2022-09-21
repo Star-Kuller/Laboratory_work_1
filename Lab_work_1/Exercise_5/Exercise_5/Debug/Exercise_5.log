@@ -1,0 +1,6 @@
+﻿  Exercise_5.cpp
+C:\Users\Дмитрий\Documents\Московский Политех\Введение в программирование\Лаботаторные работы\Laboratory_work_1\Lab_work_1\Exercise_5\Exercise_5\Exercise_5.cpp(13,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дмитрий\Documents\Московский Политех\Введение в программирование\Лаботаторные работы\Laboratory_work_1\Lab_work_1\Exercise_5\Exercise_5\Exercise_5.cpp(14,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\Documents\Московский Политех\Введение в программирование\Лаботаторные работы\Laboratory_work_1\Lab_work_1\Exercise_5\Exercise_5\Exercise_5.cpp(15,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дмитрий\Documents\Московский Политех\Введение в программирование\Лаботаторные работы\Laboratory_work_1\Lab_work_1\Exercise_5\Exercise_5\Exercise_5.cpp(16,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Exercise_5.vcxproj -> C:\Users\Дмитрий\Documents\Московский Политех\Введение в программирование\Лаботаторные работы\Laboratory_work_1\Lab_work_1\Exercise_5\Debug\Exercise_5.exe
